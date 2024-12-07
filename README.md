@@ -45,3 +45,25 @@ To run this project locally, follow these steps:
 ```bash
 git clone <repository-url>
 cd flutter_intership_task_app
+
+2. Install dependencies
+Make sure you have Flutter installed on your machine. Then, install the necessary dependencies:
+
+bash
+Copy code
+flutter pub get
+3. Run the app
+Use the following command to run the app on an emulator or a physical device:
+
+bash
+Copy code
+flutter run
+Resources
+Flutter Documentation
+Riverpod Documentation
+GoRouter Documentation
+Notes
+The task has been implemented with the requested design and functionality, but due to time constraints, state management with Riverpod has not been included.
+For a complete solution, I would recommend implementing Riverpod for state management as planned.
+Submission Guidelines
+The project has been submitted via GitHub as per the guidelines.
